@@ -8,6 +8,8 @@ Welcome to Coding with Kids's documentation!
 
 Hello World
 
+Here is a **shiny** new note!
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
