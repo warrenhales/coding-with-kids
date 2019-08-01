@@ -10,6 +10,8 @@ Hello World
 
 Here is a **shiny** new note!
 
+Will this CI?
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
