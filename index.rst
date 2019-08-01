@@ -10,7 +10,7 @@ Hello World
 
 Here is a **shiny** new note!
 
-Will this CI?
+Will this CI? Yes it will!!!!!!
 
 .. toctree::
    :maxdepth: 2
