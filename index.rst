@@ -3,24 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Coding with Kids's documentation!
+Welcome to CAEA documentation site
 ============================================
 
-Hello World
+This site captures documentation related to CAEA's business processes, applications and infrastructure.
 
-Here is a **shiny** new note!
-
-Will this CI? Yes it will!!!!!!
+This site is in beta.
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Contents:
 
+   ThisSite/CreatingContent
+   ThisSite/RestructuredTextReference
 
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Guidelines:
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   ThisSite/CreatingContent
+   ThisSite/RestructuredTextReference
