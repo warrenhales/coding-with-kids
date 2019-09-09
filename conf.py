@@ -18,9 +18,8 @@
 master_doc = 'index'
 
 # -- Project information -----------------------------------------------------
-
-project = 'Coding with Kids'
-copyright = '2019, Warren Hales'
+project = 'CAEA Documentation'
+copyright = "2019, Canadian Actor's Equity Association"
 author = 'Warren Hales'
 
 
